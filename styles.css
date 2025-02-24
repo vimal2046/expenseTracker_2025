@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+    color: black;
+}
+
+.table {
+    background-color:white;
+    color : black;
+}
+input, select{
+    background-color: white;
+    color: black;
+    border: 1px solid #ccc;
+}
+
+.btn-success{
+    background-color: #28a745;
+    color: white;
+}
+
+/* dark mode styles */
+
+.dark-mode {
+    background-color: #4c4848;
+    color: white;
+}
+
+.dark-mode .table{
+    background-color: #1e1e1e;
+    color: white;
+}
+.dark-mode input,
+.dark-mode select{
+    background-color: #333;
+    color: white;
+    border: 1px solid #777;
+}
+
+.dark-mode .btn-success{
+    background-color: #ff9800;
+    color: black;
+}
+
+.dark-mode .btn-success{
+    background-color: #ff9800;
+    color: black;
+}
+
+.dark-mode .btn-danger{
+    background-color: #e60000;
+}
+
